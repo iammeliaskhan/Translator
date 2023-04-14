@@ -24,17 +24,18 @@ Open **'index.html'** in your web browser.
 
 To use the translator, follow these steps:
 
-Enter the text you want to translate in the "Enter Text" field.
 
-Select the source language of the text from the dropdown list.
+1. Enter the text you want to translate in the "Enter Text" field.
 
-Select the target language to translate the text into from the dropdown list.
+2. Select the source language of the text from the dropdown list.
 
-Click the "Translate" button.
+3. Select the target language to translate the text into from the dropdown list.
 
-The translated text will be displayed in the "Translated Text" field.
+4. Click the "Translate" button.
 
-To translate another text, repeat steps 1-5.
+5. The translated text will be displayed in the "Translated Text" field.
+
+6. To translate another text, repeat steps 1-5.
 
 ## Contributing
 
