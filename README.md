@@ -6,19 +6,19 @@ Translator is a web application that allows users to translate text from one lan
 
 To use the translator, follow these steps:
 
-Clone the repository:
+1. Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/iammeliaskhan/Translator.git
+  bash
+  Copy code
+  git clone https://github.com/iammeliaskhan/Translator.git
 
-Change directory to the project directory:
+2. Change directory to the project directory:
 
-bash
-Copy code
-cd Translator
+  bash
+  Copy code
+  cd Translator
 
-Open **'index.html'** in your web browser.
+3. Open **'index.html'** in your web browser.
 
 ## Usage
 
