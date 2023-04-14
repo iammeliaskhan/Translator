@@ -14,9 +14,10 @@ To use the translator, follow these steps:
 
 2. Change directory to the project directory:
 
-  bash
-  Copy code
-  cd Translator
+  ```bash
+      Copy code
+      cd Translator
+  ```
 
 3. Open **'index.html'** in your web browser.
 
