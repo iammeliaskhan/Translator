@@ -18,7 +18,7 @@ bash
 Copy code
 cd Translator
 
-Open *'index.html'* in your web browser.
+Open **'index.html'** in your web browser.
 
 # Usage
 
