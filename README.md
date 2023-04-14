@@ -24,7 +24,6 @@ Open **'index.html'** in your web browser.
 
 To use the translator, follow these steps:
 
-
 1. Enter the text you want to translate in the "Enter Text" field.
 
 2. Select the source language of the text from the dropdown list.
