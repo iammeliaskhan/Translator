@@ -18,7 +18,7 @@ To use the translator, follow these steps:
       cd Translator
   ```
 
-3. Open **`index.html`** in your web browser.
+3. Open `index.html` in your web browser.
 
 ## Usage
 
