@@ -20,7 +20,7 @@ cd Translator
 
 Open **'index.html'** in your web browser.
 
-# Usage
+## Usage
 
 To use the translator, follow these steps:
 
@@ -36,6 +36,6 @@ The translated text will be displayed in the "Translated Text" field.
 
 To translate another text, repeat steps 1-5.
 
-# Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
