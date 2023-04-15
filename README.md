@@ -7,14 +7,14 @@ Translator is a web application that allows users to translate text from one lan
 To use the translator, follow these steps:
 
 1. Clone the repository:
-  ```bash
-      git clone https://github.com/iammeliaskhan/Translator.git
-  ```
+    ```bash
+        git clone https://github.com/iammeliaskhan/Translator.git
+    ```
 
 2. Change directory to the project directory:
-  ```bash
-      cd Translator
-  ```
+    ```bash
+        cd Translator
+    ```
 
 3. Open `index.html` in your web browser.
 
